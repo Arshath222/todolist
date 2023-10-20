@@ -10,7 +10,8 @@ function App() {
 
  return (
   <div className="App">
-<Header/>
+    
+<Header title="Arshath"/>
 <Content/>
 <Footer/>
   </div>
